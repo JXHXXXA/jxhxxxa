@@ -1,1 +1,0 @@
-Higit config --list
